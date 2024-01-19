@@ -16,7 +16,7 @@ AWS, Python, Javascript/Typescript, NodeJS, ReactJS, MySQL, Oracle, MongoDb, Jav
 
 
 
-## Outras seções comuns em perfis do GitHub
+## Mais...
 ⚡️ Trabalho atualmente como Coordenador de tecnologia.
 
 🧠 Estou aprendendo sobre gestão/processos.
