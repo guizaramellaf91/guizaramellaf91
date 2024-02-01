@@ -17,7 +17,7 @@ AWS, Python, Javascript/Typescript, NodeJS, ReactJS, MySQL, Oracle, MongoDb, Jav
 
 
 ## Mais...
-⚡️ Trabalho atualmente como Gestor de Projetos.
+⚡️ Trabalho atualmente como Gerente de Projetos.
 
 🧠 Estou aprendendo sobre gestão/processos.
 
