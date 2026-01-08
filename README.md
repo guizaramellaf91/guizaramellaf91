@@ -1,28 +1,20 @@
+Olá, eu sou o Guilherme 👋
 
-# Olá, eu sou o Guilherme! 👋
+Arquiteto de Software e Líder de Engenharia, com foco em backend, cloud e IA aplicada (LLMs/RAG).
+Atuo no design e evolução de sistemas escaláveis, APIs e produtos em produção.
 
+### 🧠 Atuação
+- Arquitetura de sistemas e decisões de stack
+- Backend em Python (FastAPI), integrações e mensageria
+- Cloud, CI/CD, observabilidade e segurança
+- IA aplicada: LLM orchestration, RAG e automações
 
-## 🚀 Sobre mim
-Tech Manager | Tech Lead | Software Engineer | Full Stack Developer | Python | Javascript | Typescript | Java | OracleDB | MongoDB | Firebase | AWS | Docker | DevOps
+### 🚀 Atualmente
+Founder & CTO @ Smarf  
+Construindo uma plataforma de IA conversacional para automação de processos e integrações corporativas.
 
+### 🔗 Links
+- LinkedIn: https://linkedin.com/in/guizaramellaf
+- Site: https://smarfia.com
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://guizaf.com.br/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guizaramellaf/)
-
-
-## 🛠 Habilidades
-AWS, Python, Javascript/Typescript, NodeJS, ReactJS, MySQL, Oracle, MongoDb, Java, Docker, ClearCode, Solid, {...}
-
-
-
-## Mais...
-⚡️ Trabalho atualmente como Gerente de Projetos.
-
-🧠 Estou aprendendo sobre gestão/processos.
-
-👯‍♀️ Procuro colaborar em equipe sempre.
-
-🤔 Procuro ajuda em todas as fontes de informações.
-
-💬 Me pergunte sobre o Universo
+> "Código é meio. Arquitetura é decisão. Impacto é o objetivo."
