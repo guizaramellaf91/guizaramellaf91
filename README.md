@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/header.svg)
+![Header](./assets/header.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Desenvolvedor+de+Software+com+10%2B+anos+de+experi%C3%AAncia;Da+teoria+%C3%A0+pr%C3%A1tica+%E2%80%94+com+qualidade+e+prop%C3%B3sito;Backend+%C2%B7+Frontend+%C2%B7+DevOps+%C2%B7+Dados)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Guilherme Zaramella**, desenvolvedor de software com **mais de 10 anos de experiência** em tecnologia. Minha jornada começou no **hardware** — montagem, manutenção e infraestrutura — antes de migrar para o desenvolvimento, o que me deu uma visão completa: da máquina física ao código que roda nela.
+Sou **Guilherme Zaramella**, desenvolvedor de software com **mais de 10 anos de experiência** em tecnologia. Minha jornada começou no **hardware** - montagem, manutenção e infraestrutura, antes de migrar para o desenvolvimento, o que me deu uma visão completa: da máquina física ao código que roda nela.
 
 Tudo começou com **C#**, onde me apaixonei por tecnologia e descobri que construir software é transformar ideias em soluções reais. Desde então, evolui por múltiplas linguagens e ecossistemas, sempre com foco em **código limpo, arquitetura sólida e entrega de valor**.
 
@@ -153,7 +153,7 @@ Experiência com **GitHub Actions**, **AWS Amplify**, **Docker**, **docker-compo
 
 ## 🚀 O que busco
 
-Projetos desafiadores onde eu possa aplicar experiência técnica acumulada ao longo de uma década — construindo sistemas **escaláveis**, **maintíveis** e com impacto real. Aberto a colaborações, code reviews e conversas sobre arquitetura e boas práticas.
+Projetos desafiadores onde eu possa aplicar experiência técnica acumulada ao longo de uma década construindo sistemas **escaláveis**, **maintíveis** e com impacto real. Aberto a colaborações, code reviews e conversas sobre arquitetura e boas práticas.
 
 ---
 
