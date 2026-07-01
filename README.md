@@ -2,7 +2,7 @@
 
 ![Header](./assets/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Desenvolvedor+de+Software+com+10%2B+anos+de+experi%C3%AAncia;Da+teoria+%C3%A0+pr%C3%A1tica+%E2%80%94+com+qualidade+e+prop%C3%B3sito;Backend+%C2%B7+Frontend+%C2%B7+DevOps+%C2%B7+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Desenvolvedor+de+Software+com+10%2B+anos+de+experi%C3%AAncia;Backend+%C2%B7+Frontend+%C2%B7+DevOps+%C2%B7+IA+%C2%B7+Dados;Da+teoria+%C3%A0+pr%C3%A1tica+%E2%80%94+com+qualidade+e+prop%C3%B3sito)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guizaramellaf)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guizaramellaf91)
@@ -18,6 +18,8 @@ Sou **Guilherme Zaramella**, desenvolvedor de software com **mais de 10 anos de 
 
 Tudo começou com **C#**, onde me apaixonei por tecnologia e descobri que construir software é transformar ideias em soluções reais. Desde então, evolui por múltiplas linguagens e ecossistemas, sempre com foco em **código limpo, arquitetura sólida e entrega de valor**.
 
+Nos últimos anos, também atuo com **Inteligência Artificial aplicada** — integrando **LLMs** em produtos reais, com domínio do ciclo completo: do prompt ao deploy em produção.
+
 > *"O espaço entre a teoria e a prática não é tão grande como é, a teoria na prática."*
 
 ---
@@ -27,9 +29,10 @@ Tudo começou com **C#**, onde me apaixonei por tecnologia e descobri que constr
 | Área | Destaques |
 |------|-----------|
 | **Trajetória** | 10+ anos em tecnologia · background em hardware antes do desenvolvimento |
-| **Perfil** | Full-stack com forte atuação em backend, APIs e integração de sistemas |
-| **Mindset** | Pragmatismo, ownership e melhoria contínua - da concepção ao deploy |
-| **Diferencial** | Visão end-to-end: infraestrutura, aplicação, dados e pipeline de entrega |
+| **Perfil** | Full-stack com forte atuação em backend, APIs, integração de sistemas e IA aplicada |
+| **Inteligência Artificial** | LLMs · fine-tuning · system prompts · RAG · vetores em PostgreSQL · governança de IA |
+| **Mindset** | Pragmatismo, ownership e melhoria contínua — da concepção ao deploy |
+| **Diferencial** | Visão end-to-end: infraestrutura, aplicação, dados, IA e pipeline de entrega |
 
 ---
 
@@ -81,6 +84,34 @@ Experiência sólida com **Node.js** e ecossistema **npm**, incluindo projetos r
 </div>
 
 **ReactJS** · **Vite** · **Bootstrap** · **styled-components** · **CSS nativo** · **Redux / Redux-Saga** · **React Context API** · **Zustand**
+
+---
+
+### Inteligência Artificial
+
+<div align="center">
+
+[![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logo=semanticweb&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![Fine-tuning](https://img.shields.io/badge/Fine--tuning-A371F7?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+</div>
+
+Atuo na construção de soluções com **IA generativa** integradas a produtos de software — do desenho da arquitetura à operação em produção.
+
+**Projeto em destaque:** **Smarf Prime** — plataforma com modelos de **LLM** aplicados a contextos de negócio reais.
+
+| Competência | O que faço |
+|-------------|------------|
+| **Modelos & LLMs** | Integração e orquestração de modelos de linguagem em fluxos de aplicação |
+| **Fine-tuning** | Ajuste de modelos para domínios e comportamentos específicos |
+| **System prompts** | Engenharia de prompts e instruções de sistema para respostas consistentes |
+| **RAG** | Retrieval-Augmented Generation com **vetores em PostgreSQL** (pgvector) |
+| **Governança de IA** | Regras, validações, tratamento de respostas e controle de qualidade |
+
+*Não fico só na camada de API — penso em como a IA se comporta, como recupera contexto e como entrega valor de forma confiável.*
 
 ---
 
@@ -148,7 +179,7 @@ Experiência com **GitHub Actions**, **AWS Amplify**, **Docker**, **docker-compo
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,python,rust,react,nodejs,nestjs,nextjs,vite,bootstrap,redux,docker,postgres,mongodb,redis,firebase,mysql,github,aws&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,python,rust,react,nodejs,nestjs,nextjs,openai,pytorch,docker,postgres,mongodb,redis,firebase,mysql,github,aws&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -156,7 +187,7 @@ Experiência com **GitHub Actions**, **AWS Amplify**, **Docker**, **docker-compo
 
 ## 🚀 O que busco
 
-Projetos desafiadores onde eu possa aplicar experiência técnica acumulada ao longo de uma década construindo sistemas **escaláveis**, **maintíveis** e com impacto real. Aberto a colaborações, code reviews e conversas sobre arquitetura e boas práticas.
+Projetos desafiadores onde eu possa aplicar experiência técnica acumulada ao longo de uma década — construindo sistemas **escaláveis**, **maintíveis** e com impacto real, incluindo soluções com **IA aplicada**. Aberto a colaborações, code reviews e conversas sobre arquitetura, boas práticas e engenharia de LLMs.
 
 ---
 

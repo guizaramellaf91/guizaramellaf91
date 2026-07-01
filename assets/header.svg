@@ -40,7 +40,7 @@
 
   <rect x="80" y="188" width="180" height="4" rx="2" fill="url(#accent)"/>
 
-  <text x="80" y="228" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="16" fill="#c9d1d9">Backend | Frontend | DevOps | Dados</text>
+  <text x="80" y="228" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="16" fill="#c9d1d9">Backend | Frontend | DevOps | IA | Dados</text>
 
   <g transform="translate(80, 252)">
     <circle cx="0" cy="0" r="6" fill="#239120"/>
