@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Zaramella</title>
+  <desc id="desc">do metal a memoria</desc>
+  <rect width="1400" height="320" fill="#07080c"/>
+  <rect width="1400" height="1" fill="#7dd3fc" opacity="0.55"/>
+  <circle cx="1180" cy="70" r="1.4" fill="#7dd3fc" opacity="0.35"/>
+  <circle cx="1244" cy="118" r="1.1" fill="#e0f2fe" opacity="0.28"/>
+  <circle cx="1310" cy="86" r="0.9" fill="#7dd3fc" opacity="0.22"/>
+  <circle cx="1272" cy="168" r="1.2" fill="#bae6fd" opacity="0.2"/>
+  <circle cx="1348" cy="142" r="0.8" fill="#7dd3fc" opacity="0.18"/>
+  <text x="80" y="148" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="560" fill="#f8fafc">Guilherme Zaramella</text>
+  <text x="80" y="196" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">do metal &#224; mem&#243;ria</text>
+  <circle cx="80" cy="236" r="2.4" fill="#7dd3fc"/>
+  <circle cx="96" cy="236" r="2.4" fill="#7dd3fc" opacity="0.55"/>
+  <circle cx="112" cy="236" r="2.4" fill="#7dd3fc" opacity="0.28"/>
+</svg>
