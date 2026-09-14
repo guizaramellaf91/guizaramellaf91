@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
   <title id="title">Guilherme Zaramella</title>
-  <desc id="desc">do metal a memoria</desc>
-  <rect width="1400" height="320" fill="#07080c"/>
-  <rect width="1400" height="1" fill="#7dd3fc" opacity="0.55"/>
-  <circle cx="1180" cy="70" r="1.4" fill="#7dd3fc" opacity="0.35"/>
-  <circle cx="1244" cy="118" r="1.1" fill="#e0f2fe" opacity="0.28"/>
-  <circle cx="1310" cy="86" r="0.9" fill="#7dd3fc" opacity="0.22"/>
-  <circle cx="1272" cy="168" r="1.2" fill="#bae6fd" opacity="0.2"/>
-  <circle cx="1348" cy="142" r="0.8" fill="#7dd3fc" opacity="0.18"/>
-  <text x="80" y="148" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="560" fill="#f8fafc">Guilherme Zaramella</text>
-  <text x="80" y="196" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">do metal &#224; mem&#243;ria</text>
-  <circle cx="80" cy="236" r="2.4" fill="#7dd3fc"/>
-  <circle cx="96" cy="236" r="2.4" fill="#7dd3fc" opacity="0.55"/>
-  <circle cx="112" cy="236" r="2.4" fill="#7dd3fc" opacity="0.28"/>
+  <desc id="desc">unidade de engenharia</desc>
+  <rect width="1400" height="620" fill="#07080c"/>
+  <rect x="0" y="0" width="4" height="620" fill="#7dd3fc"/>
+  <rect x="0" y="0" width="1400" height="1" fill="#7dd3fc" opacity="0.45"/>
+  <rect x="0" y="619" width="1400" height="1" fill="#1e293b"/>
+
+  <text x="56" y="56" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4" fill="#7dd3fc">GZ</text>
+  <text x="1344" y="56" text-anchor="end" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.4" fill="#8b9bb0">BELO HORIZONTE</text>
+
+  <text x="56" y="168" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="600" fill="#f8fafc">Guilherme Zaramella</text>
+  <text x="56" y="216" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#bae6fd">do metal &#224; mem&#243;ria</text>
+
+  <rect x="56" y="252" width="72" height="2" fill="#7dd3fc"/>
+
+  <text x="56" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.8" fill="#7dd3fc">ARQUITETURA</text>
+  <text x="56" y="348" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#f8fafc">ponta a ponta</text>
+  <text x="56" y="376" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b9bb0">sistemas &#183; cloud</text>
+
+  <text x="390" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.8" fill="#7dd3fc">ENGENHARIA</text>
+  <text x="390" y="348" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#f8fafc">backend &#183; dados</text>
+  <text x="390" y="376" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b9bb0">nuvem &#183; interface</text>
+
+  <text x="724" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.8" fill="#7dd3fc">INTELIG&#202;NCIA</text>
+  <text x="724" y="348" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#f8fafc">LLMs &#183; RAG</text>
+  <text x="724" y="376" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b9bb0">agentes &#183; orquestra&#231;&#227;o</text>
+
+  <text x="1058" y="312" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.8" fill="#7dd3fc">LINGUAGENS</text>
+  <text x="1058" y="348" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#f8fafc">Python &#183; TS</text>
+  <text x="1058" y="376" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b9bb0">Rust &#183; Java &#183; C#</text>
+
+  <rect x="56" y="428" width="1288" height="1" fill="#1e293b"/>
+
+  <text x="56" y="478" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.8" fill="#7dd3fc">PROTOCOLO</text>
+  <text x="56" y="514" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#f8fafc">humano no loop &#183; resposta sem espera &#183; o que lembra, permanece</text>
+
+  <text x="56" y="568" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b9bb0">origem hardware &#183; 2012</text>
+  <circle cx="1308" cy="564" r="3.2" fill="#7dd3fc"/>
+  <circle cx="1328" cy="564" r="3.2" fill="#7dd3fc" opacity="0.5"/>
+  <circle cx="1348" cy="564" r="3.2" fill="#7dd3fc" opacity="0.22"/>
 </svg>
